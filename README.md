@@ -1,3 +1,5 @@
+74VYHLN2MTS5MmKmJ4oEnjqJGbEy4nGarWz15NyCpump
+
 ---
 name: pumpclaw-agent
 description: Generate customer-ready Telegram polling bots + an Express-style web server that integrate Pump.fun Tokenized Agent payments using @pump-fun/agent-payments-sdk (build invoices, accept payments, and verify invoices on Solana). Use when asked for pump.fun / pumpfun agent integrations, tokenized agent payment flows, invoice verification, or a Telegram+web bot scaffold for Pump Tokenized Agents.
