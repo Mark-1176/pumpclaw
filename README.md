@@ -1,4 +1,3 @@
-74VYHLN2MTS5MmKmJ4oEnjqJGbEy4nGarWz15NyCpump
 
 ---
 name: pumpclaw-agent
